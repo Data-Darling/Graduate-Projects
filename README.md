@@ -1,2 +1,2 @@
-# Grammy
-Grammy Project
+# Graduate Projects
+Graduate Project
